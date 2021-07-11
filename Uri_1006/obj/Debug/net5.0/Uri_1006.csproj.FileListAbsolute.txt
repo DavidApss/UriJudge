@@ -1,0 +1,16 @@
+C:\Labs\UriJudge\Uri_1006\bin\Debug\net5.0\Uri_1006.exe
+C:\Labs\UriJudge\Uri_1006\bin\Debug\net5.0\Uri_1006.deps.json
+C:\Labs\UriJudge\Uri_1006\bin\Debug\net5.0\Uri_1006.runtimeconfig.json
+C:\Labs\UriJudge\Uri_1006\bin\Debug\net5.0\Uri_1006.runtimeconfig.dev.json
+C:\Labs\UriJudge\Uri_1006\bin\Debug\net5.0\Uri_1006.dll
+C:\Labs\UriJudge\Uri_1006\bin\Debug\net5.0\ref\Uri_1006.dll
+C:\Labs\UriJudge\Uri_1006\bin\Debug\net5.0\Uri_1006.pdb
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.csproj.AssemblyReference.cache
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.AssemblyInfoInputs.cache
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.AssemblyInfo.cs
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.csproj.CoreCompileInputs.cache
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.dll
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\ref\Uri_1006.dll
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.pdb
+C:\Labs\UriJudge\Uri_1006\obj\Debug\net5.0\Uri_1006.genruntimeconfig.cache
